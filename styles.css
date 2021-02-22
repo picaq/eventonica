@@ -1,4 +1,9 @@
 html {
     background: #171717;
+    color: #ccc;
+}
+
+input, button, td input[type="checkbox"], #favorite{
+    background: #333;
     color: #ddd;
 }
