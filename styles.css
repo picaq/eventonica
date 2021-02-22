@@ -3,7 +3,20 @@ html {
     color: #ccc;
 }
 
+body {
+    max-width: 55rem;
+    margin: 0 auto;
+}
+
 input, button, td input[type="checkbox"], #favorite{
     background: #333;
     color: #ddd;
+}
+
+table {
+    margin: 0 auto;
+}
+
+th, td {
+    padding: 0 .5rem;
 }
